@@ -86,7 +86,7 @@ To make this app accessible on the internet, deploy it using Streamlit Community
 
 ## 📸 Screenshots
 
-*(To complete the assignment, replace the files in the `assets/` folder with your actual screenshots after running the app)*
+
 
 - **Home Page:** `assets/home.png`
 - **Explanation:** `assets/explanation.png` 
@@ -95,6 +95,9 @@ To make this app accessible on the internet, deploy it using Streamlit Community
 - **Conversation:** `assets/conversation.png`
 
 ---
+
+##wesite_URL: https://ailearningbuddy-4pfiaw5vc4rkxsvawvne5r.streamlit.app/
+
 
 ## 📋 Assignment Submission Checklist
 
